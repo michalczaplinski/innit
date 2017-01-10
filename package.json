@@ -1,0 +1,24 @@
+{
+  "name": "innit",
+  "version": "0.0.1",
+  "description": "assertions for the browser.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michalczaplinski/innit.git"
+  },
+  "keywords": [
+    "assert",
+    "test",
+    "testing"
+  ],
+  "author": "mmczaplinski@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michalczaplinski/innit/issues"
+  },
+  "homepage": "https://github.com/michalczaplinski/innit#readme"
+}
